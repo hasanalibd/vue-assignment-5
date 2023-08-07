@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    }
+  ],
+  "credentials": [
+    {
+      "id": "",
+      "username": "",
+      "password": ""
+    },
+    {
+      "username": "rabbi",
+      "password": "123",
+      "id": "wh2Z8E8"
+    },
+    {
+      "username": "hasan",
+      "password": "1234",
+      "id": "eWDZGsS"
+    }
+  ]
+}
